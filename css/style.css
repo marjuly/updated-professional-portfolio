@@ -1,0 +1,98 @@
+#top {
+  height: 730px;
+  background-image: url(https://cdn.pixabay.com/photo/2018/08/21/23/29/fog-3622519_1280.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-clip: padding-box;
+}
+
+.icon {
+  height: 46px;
+  width: 46px;
+  margin: 3px;
+  padding-top: ;
+}
+
+.icon,
+#no {
+  cursor: not-allowed !important;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.jumbotron,
+#botones,
+#no {
+  background-color: #396204;
+}
+
+.nav-link,
+p {
+  color: #809636;
+}
+
+.nav-link:hover,
+.nav-link:active {
+  color: #396204;
+}
+
+#tarjeta,
+#botones,
+#resume,
+#lol,
+h2 {
+  text-align: center;
+}
+
+body,
+#tarjeta {
+  background-color: #f4eed6;
+  border: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.name {
+  text-align: center;
+  padding-top: 200px;
+  font-weight: 800;
+}
+
+h2,
+.name {
+  color: #4f3b03;
+  font-family: "Playfair Display", serif;
+}
+
+h2 {
+  font-weight: 600;
+  font-family: "Playfair Display", serif;
+}
+
+h3 {
+  padding: 30px;
+}
+
+h3,
+#resume {
+  color: #809636;
+}
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #4f3b03;
+  height: 136px;
+}
+#lol {
+  color: #f4eed6;
+}
+
+#resume {
+  height: 130px;
+}
+
+.card-title {
+  font-weight: 400;
+}
